@@ -1,5 +1,5 @@
 # Estudos_Python
-Repositório de estudos em Python
+
 Este é um repositório criado para armazenar os códigos desenvolvidos durante o curso "Python" da FIAP de 80 horas, executado por mim, Bruno Souza. Aqui você encontrará exemplos de códigos em Python desenvolvidos ao longo dos oito capítulos do curso, que incluem:
 
 Introdução à Linguagem Python
